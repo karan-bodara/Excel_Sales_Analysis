@@ -92,3 +92,12 @@ Key Insights:
 • Delivered insights to support data-driven business decisions • P&A Division contributed the highest revenue ($338M in 2021)
 
 • Target Gap: 2021 sales missed targets by $54.9M (-8.4%).
+
+------
+
+## 🌟 About Me
+As a data enthusiast, I specialize in building efficient data systems, uncovering insights, and solving business problems through data-driven solutions. I’m committed to delivering high-quality, reliable results that add real value to your projects.
+
+
+Lets connect :
+[[LinkedIn]](https://www.linkedin.com/in/karan-bodara-8684562b4/)
